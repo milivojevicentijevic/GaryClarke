@@ -19,3 +19,15 @@
     <p><?php echo"The connection ID is ".$connection1->connectionId; ?></p>
 </body>
 </html>
+
+
+
+
+
+
+<!-- 
+Conference ID: 1234
+The number of connections is 1
+The conference ID is 1234
+The connection ID is 127.0.0.1_1 
+-->
